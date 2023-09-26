@@ -1,0 +1,1 @@
+1) nombre de todas las carpetas y archivo en "camelCase" excepto para los "modelos" que deben iniciar con mayuscula

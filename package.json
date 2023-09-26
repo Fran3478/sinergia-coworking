@@ -1,0 +1,11 @@
+{
+  "name": "serversinergiacoworking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ft41a_pf_grupo20",
+  "license": "ISC"
+}

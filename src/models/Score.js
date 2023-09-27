@@ -8,16 +8,6 @@ module.exports = (sequelize) => {
             primaryKey: true,
             defaultValue: DataTypes.UUIDV4
         },
-        user: {
-            type: DataTypes.UUID,
-            allowNull: false,
-            defaultValue: DataTypes.UUIDV4
-        },
-        office: {
-            type: DataTypes.UUID,
-            allowNull: false,
-            defaultValue: DataTypes.UUIDV4
-        },
         comment: {
             type: DataTypes.STRING,
             allowNull: false

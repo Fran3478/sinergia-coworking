@@ -28,18 +28,10 @@ module.exports = (sequelize) => {
             type: DataTypes.STRING,
             allowNull: false
         },
-        category: {
-            type: DataTypes.UUID,
-            allowNull: false
-        },
         ratingAverage: {
             type: DataTypes.FLOAT,
             allowNull: false,
             defaultValue: 0.0
-        },
-        city: {
-            type: DataTypes.UUID,
-            allowNull: false
         }
     },
     {
